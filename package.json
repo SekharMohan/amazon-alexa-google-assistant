@@ -1,0 +1,27 @@
+{
+  "name": "amazon-alexa-google-assistant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "8.9.4",
+    "npm": "5.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@me.github.com:SekharMohan/amazon-alexa-google-assistant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-app": "^4.2.1",
+    "alexa-sdk": "^1.0.25",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "request": "^2.83.0",
+    "upper-case": "^1.1.3"
+  }
+}

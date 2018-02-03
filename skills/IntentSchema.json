@@ -1,0 +1,17 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "baseCountry",
+          "type": "AMAZON.Country"
+        },
+        {
+          "name": "conversionCountry",
+          "type": "AMAZON.Country"
+        }
+      ],
+      "intent": "currencyConverter"
+    }
+  ]
+}

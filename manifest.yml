@@ -1,0 +1,6 @@
+---
+applications:
+
+- name: amazon-alexa-google-assistance
+  command: node app.js
+
